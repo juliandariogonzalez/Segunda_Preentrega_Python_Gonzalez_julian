@@ -1,0 +1,6 @@
+setup.py
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/PKG-INFO
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/SOURCES.txt
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/dependency_links.txt
+Paquetes_redistribuibles_de_las_pre_entregas.egg-info/top_level.txt
+paquetes/preentrega2_clase_cliente.py
